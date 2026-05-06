@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ex000/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex001/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex002/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex002/testeclasse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex003/ex003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex000/ex000.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex000/ex000.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex001/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex001/ex001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +53,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.testeclasse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -62,6 +69,12 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\exercicios" />
+      <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\ex001" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
