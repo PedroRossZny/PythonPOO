@@ -1,0 +1,16 @@
+from rich import print
+
+class Funcionario:
+    def __init__(self, nome, setor, cargo):
+        self.nome = nome
+        self.setor = setor
+        self.cargo = cargo
+
+    def apresentacao(self):
+        return f":handshake: Olá, sou [blue]{self.nome}[/] e sou [yellow]{self.cargo}[/] do setor de [purple]{self.setor}[/] da empresa Curso em Vídeo"
+
+c1 = Funcionario("Maria", "Administração", "Diretora")
+print(c1.apresentacao())
+
+c2 = Funcionario("Pedro", "TI", "Programador")
+print(c2.apresentacao())

@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/rich/rich001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rich/rich002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rich/rich003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rich/rich004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/D016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/D017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/D018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/D019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/D020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/D021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/D022.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios/ex003/ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios/ex003/ex003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.D016.executor": "Run",
+    "Python.D017.executor": "Run",
+    "Python.D018.executor": "Run",
+    "Python.D019.executor": "Run",
+    "Python.D020.executor": "Run",
+    "Python.D021.executor": "Run",
+    "Python.D022.executor": "Run",
+    "Python.a.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
@@ -60,6 +70,7 @@
     "Python.rich003.executor": "Run",
     "Python.testeclasse.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
