@@ -8,6 +8,7 @@ class ControleRemoto:
         self.canal = 1
         self.volume = 2
 
+    def Televisao(self):
         while True:
             tv = Panel(":no_entry_sign: [red]A TV esta desligada[/]", title="[ TV ]", width=40)
             liga_desliga = False
@@ -87,3 +88,4 @@ class ControleRemoto:
                                 "[yellow]0 = [red]SAIR DO PROGRAMA[/]", title=" ERRO ", style="red"))
 
 tv1 = ControleRemoto()
+tv1.Televisao()
