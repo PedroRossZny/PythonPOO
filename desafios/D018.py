@@ -8,8 +8,8 @@ class Churrasco:
 
     def analisar(self):
         pesototal = self.quant * 0.4
-        custototal = self.quant * 82.4
-        custocada = custototal / 15
+        custototal = pesototal * 82.4
+        custocada = custototal / self.quant
         painel = Panel(f"[white]Analisando [yellow]{self.titulo}[/] com [blue]{self.quant} convidados[/]\n"
                        f"Cada participante comerá [red]0.4Kg[/] e cada Kg custa [green]R$82.40[/]\n"
                        f"Recomendo [red]comprar {pesototal:.3f}Kg[/] de carne\n"
