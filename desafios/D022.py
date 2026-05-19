@@ -13,7 +13,7 @@ class ControleRemoto:
             tv = Panel(":no_entry_sign: [red]A TV esta desligada[/]", title="[ TV ]", width=40)
             liga_desliga = False
             print(tv)
-            botoes = str(input("< CH1 >   - VOL1 + "))
+            botoes = str(input(f"< CH{self.canal}>   - VOL{self.volume} + "))
             print(f"{"\n"*8}")
             if botoes == "@" and not liga_desliga:
                 liga_desliga = True
@@ -21,14 +21,14 @@ class ControleRemoto:
                     tv = Panel(f"CANAL = {self.canais}\n"
                                f"VOLUME = {self.volumeTotal}", title="[ TV ]", width=40)
                     print(tv)
-                    botoes = str(input("< CH1 >   - VOL1 + "))
+                    botoes = str(input(f"< CH{self.canal} >   - VOL{self.volume} + "))
                     print(f"{"\n"*8}")
                     while botoes == "0":
                         print("\n[red]Desligue a TV para sair do programa[/]\n")
                         tv = Panel(f"CANAL = {self.canais}\n"
                                    f"VOLUME = {self.volumeTotal}", title="[ TV ]", width=40)
                         print(tv)
-                        botoes = str(input("< CH1 >   - VOL1 + "))
+                        botoes = str(input(f"< CH{self.canal} >   - VOL{self.volume} + "))
                         print(f"{"\n"*8}")
                     if botoes == "+" or botoes == "-":
                         if botoes == "+":
