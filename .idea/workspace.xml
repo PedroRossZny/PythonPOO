@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/D018Part2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +51,15 @@
     "Python.D017.executor": "Run",
     "Python.D017Part2.executor": "Run",
     "Python.D018.executor": "Run",
+    "Python.D018Part2.executor": "Run",
     "Python.D019.executor": "Run",
+    "Python.D019Part2.executor": "Run",
     "Python.D020.executor": "Run",
+    "Python.D020Part2.executor": "Run",
     "Python.D021.executor": "Run",
+    "Python.D021Part2.executor": "Run",
     "Python.D022.executor": "Run",
+    "Python.D022Part2.executor": "Run",
     "Python.a.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
@@ -77,7 +81,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "configurable.group.python.group.settings"
   }
 }]]></component>
   <component name="RecentsManager">
