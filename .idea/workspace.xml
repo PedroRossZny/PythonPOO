@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/ex004/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex005/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex005/classesex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex006/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex006/aluno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex006/funcionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex006/pessoa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex006/professor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,11 +68,13 @@
     "Python.D021Part2.executor": "Run",
     "Python.D022.executor": "Run",
     "Python.D022Part2.executor": "Run",
+    "Python.__main__.executor": "Run",
     "Python.a.executor": "Run",
     "Python.ex000.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
     "Python.rich001.executor": "Run",
     "Python.rich002.executor": "Run",
     "Python.rich003.executor": "Run",
