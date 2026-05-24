@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025/caminhao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025/drone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025/moto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025/transporte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026/funcionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026/horista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026/mensalista.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +72,7 @@
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
     "Python.ex004.executor": "Run",
+    "Python.funcionario.executor": "Run",
     "Python.rich001.executor": "Run",
     "Python.rich002.executor": "Run",
     "Python.rich003.executor": "Run",
