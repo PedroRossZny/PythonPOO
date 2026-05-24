@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex004/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex005/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex005/classesex005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex006/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex006/aluno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex006/funcionario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex006/pessoa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex006/professor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex007/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex007/classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +80,7 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/PICHAU/PycharmProjects/PythonPOO/exercicios",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -95,6 +90,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\exercicios" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\exercicios" />
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\ex001" />
