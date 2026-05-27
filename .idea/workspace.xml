@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio024/D024Part2/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio024/D024Part2/cafeteria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025Part2/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025Part2/transportes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026Part2/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026Part2/funcionarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,53 +47,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.D016.executor": "Run",
-    "Python.D016Part2.executor": "Run",
-    "Python.D017.executor": "Run",
-    "Python.D017Part2.executor": "Run",
-    "Python.D018.executor": "Run",
-    "Python.D018Part2.executor": "Run",
-    "Python.D019.executor": "Run",
-    "Python.D019Part2.executor": "Run",
-    "Python.D020.executor": "Run",
-    "Python.D020Part2.executor": "Run",
-    "Python.D021.executor": "Run",
-    "Python.D021Part2.executor": "Run",
-    "Python.D022.executor": "Run",
-    "Python.D022Part2.executor": "Run",
-    "Python.__main__.executor": "Run",
-    "Python.a.executor": "Run",
-    "Python.cafe.executor": "Run",
-    "Python.ex000.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "Python.funcionario.executor": "Run",
-    "Python.personagem.executor": "Run",
-    "Python.rich001.executor": "Run",
-    "Python.rich002.executor": "Run",
-    "Python.rich003.executor": "Run",
-    "Python.testeclasse.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/PICHAU/PycharmProjects/PythonPOO/exercicios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.python.group.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.D016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D016Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D017Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D018Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D019Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D020Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D021Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D022Part2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cafe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcionario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.personagem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rich003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testeclasse.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PICHAU/PycharmProjects/PythonPOO/exercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.python.group.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\exercicios" />
