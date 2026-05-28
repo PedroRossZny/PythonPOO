@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025Part2/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio025/D025Part2/transportes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026Part2/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio026/D026Part2/funcionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio027/D027Part2/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio027/D027Part2/personagem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
