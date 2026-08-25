@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex008/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex008/ex008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex009/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex009/ex009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex010/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex010/ex010.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +43,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3DHQUidBsw2JJ8moBFjTkozvj3R" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
