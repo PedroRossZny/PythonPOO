@@ -24,4 +24,13 @@ class Diario:
 
     @senha.setter
     def senha(self, novasenha):
-        pass
+        if novasenha == self.__senha:
+            raise ValueError("Senha igual a antiga, digite uma nova senha!")
+        if isinstance(novasenha, str) and len(novasenha) > 0:
+            confirm = str(input("Digite a senha atual para mudar a senha: "))
+            if confirm == self.__senha:
+                self.__senha = novasenha
+            else:
+                raise PermissionError("Senha invalida! Voce nao pode mudar a senha!")
+        else:
+            raise TypeError('Senha invalida!')

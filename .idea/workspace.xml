@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio030/D030/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio030/D030/classes030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio030/D030Part2/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio030/D030Part2/classe030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio031/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio031/classes031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio031/D031Part2/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio031/D031Part2/classe031.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio029/D029Part2/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio029/D029Part2/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio029/D029Part2/classes029.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio029/D029Part2/classes029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio031/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio031/D031/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio031/classes031.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio031/D031/classes031.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,11 +105,11 @@
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\exercicios" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\desafios\desafio031\D031" />
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\desafios\desafio022" />
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\desafios\desafio021" />
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\desafios\desafio020" />
       <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\desafios\desafio019" />
-      <recent name="C:\Users\PICHAU\PycharmProjects\PythonPOO\desafios\desafio018" />
     </key>
   </component>
   <component name="RunManager">
