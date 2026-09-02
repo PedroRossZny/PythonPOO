@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio031/D031Part2/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio031/D031Part2/classe031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032/classe032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032Part2/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032Part2/classe032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio029/D029Part2/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio029/D029Part2/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio029/D029Part2/classes029.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio029/D029Part2/classes029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio031/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio031/D031/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio031/classes031.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio031/D031/classes031.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +71,7 @@
     &quot;Python.__main__.executor&quot;: &quot;Run&quot;,
     &quot;Python.a.executor&quot;: &quot;Run&quot;,
     &quot;Python.cafe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classe032.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
