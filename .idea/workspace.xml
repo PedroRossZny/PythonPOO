@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab717adc-0e4e-432f-a1be-e9a0a3a7ea10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032/classe032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032Part2/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio032/D032Part2/classe032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio033/D033/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio033/D033/classes033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio033/D033Part2/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio033/D033Part2/classe033.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio032/D032Part2/classe032.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio032/D032Part2/classe032.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

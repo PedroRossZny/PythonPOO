@@ -10,7 +10,7 @@ Cria uma conta bancaria e permite fazer saques e depositos
         self.__saldo = saldo # privado (-)
         if chave is None:
             chave = self.pede_senha()
-        self._hash = sha256(chave.encode()).hexdigest()
+        self.__hash = sha256(chave.encode()).hexdigest()
         print(f"Conta {self._id} criada com sucesso. Saldo atual de R${self.__saldo:,.2f}")
 
     def pede_senha(self) -> str:
@@ -24,7 +24,7 @@ Cria uma conta bancaria e permite fazer saques e depositos
 
     def validar_senha(self, chave:str) -> bool:
         usuario = sha256(chave.encode()).hexdigest()
-        if usuario == self._hash:
+        if usuario == self.__hash:
             return True
         else:
             return False
