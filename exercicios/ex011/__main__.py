@@ -1,0 +1,7 @@
+print(len("Gustavo Guanabara"))
+print(len(["Curso", "Python"]))
+print(len({"nome":"Maria", "idade":22}))
+print(+12)
+print(5.5 + 2.2)
+print("Poli" + "morfismo")
+print([1, 2, 3] + [9, 7])
